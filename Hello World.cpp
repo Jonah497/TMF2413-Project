@@ -4,6 +4,4 @@ int main()
 {
 	std::cout << "Hello World!!!";
 	// AAAAAA
-	// BBBBBB
-	// CCCCCC
 }
